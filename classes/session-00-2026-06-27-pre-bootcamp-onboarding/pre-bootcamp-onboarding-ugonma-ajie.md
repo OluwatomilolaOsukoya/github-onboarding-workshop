@@ -4,7 +4,7 @@
 ## Key Concepts I Learned
 
 
--- I learned what the **SC-500 certification** is and why it is important for anyone pursuing a career in Cloud & AI Security. 
+- I learned what the **SC-500 certification** is and why it is important for anyone pursuing a career in Cloud & AI Security. 
 It focuses on using Microsoft Security Copilot to improve security operations with AI.
 - I learned what to expect throughout the six-month bootcamp. We will have live sessions every Saturday, complete hands-on projects, and build our GitHub portfolios as we learn.
 - I learned how GitHub will be used throughout the bootcamp to document my work, submit assignments, and track my progress.

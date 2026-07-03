@@ -17,7 +17,7 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-1. I forked Microsoft-Naija-Security-Usergroup's main repository ([github-onboarding-workshop]([Microsoft-Naija-Security-Usergroup/github-onboarding-workshop: GitHub onboarding workshop guide — account creation, repositories, Markdown, and security best practices for the MNSUG community](https://github.com/Microsoft-Naija-Security-Usergroup/github-onboarding-workshop)))
+1. I forked Microsoft-Naija-Security-Usergroup's main repository ([github-onboarding-workshop](https://github.com/Microsoft-Naija-Security-Usergroup/github-onboarding-workshop))
 2. Located and changed into the given assignment directory. (**classes -> session-00-2026-27-pre-bootcamp-onboarding**)
 3. Read through the **README.md** file to get an understanding of session overview and instructions.
 4. Downloaded a copy of the assignment's raw file onto my local pc and edited it in markdown format in response to the assignment instructions, including renaming the file to include my fullname.

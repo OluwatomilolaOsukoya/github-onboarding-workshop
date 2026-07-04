@@ -45,7 +45,8 @@ I learnt how to setup github repository
 - When I created my Github account and tried to create new files, my Readme file disappeared what could be the reason
 - See screenshot below:
 
-- <img width="724" height="176" alt="image" src="https://github.com/user-attachments/assets/171b998d-65c9-4078-8d27-770d67a162fd" />
+- <img width="950" height="394" alt="image" src="https://github.com/user-attachments/assets/e6b9123a-a3be-492e-8d8b-61367cb734e9" />
+
 
 -
 

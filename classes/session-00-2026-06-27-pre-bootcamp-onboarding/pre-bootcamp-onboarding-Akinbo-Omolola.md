@@ -1,20 +1,13 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
+# My Notes — Akinbo Omolola
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
-
--
--
+Write the main ideas covered in today's session -->
+- Class managemeny and organization
+- How to create a GitHub account
+- How to collaborate using GitHuh
+- How to fork a repository
+- 
 -
 
 ---
@@ -24,27 +17,27 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
-
+I created my Github account 
+I downloaded the class file 
 ### What happened / Result
-
+It was successful 
 
 ### Challenges I faced
-
+I was unable to fork the repository. I tried uploading the files directly, but the upload failed and returned an error. I plan to practice this process further to understand it better
 
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-
-
+The most valuable thing I learned from this session was how to create and set up a GitHub repository. I also gained a better understanding of GitHub collaboration and the importance of forking repositories before making contribution
 ---
 
 ## Questions I Still Have
 
 <!-- Anything you want to follow up on or ask the mentor -->
-
+  How do I resolve errors when uploading files to GitHub?
+  What are the differences between forking a repository and cloning a repository?
 -
 -
 
@@ -53,9 +46,10 @@
 ## Resources I Found Useful
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
+- GitHub documentation
+- Class notes and demonstration
 -
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Akinbo Sherifat Omolola. Mololah

@@ -1,24 +1,20 @@
 # My Notes — \[BABA BATA]
 
-> \*\*the main repo — the facilitator will review your notes before merging
 
-\---
 
 ## Key Concepts I Learned
 
 <!-- Write the main ideas covered in today's session -->
 
 * How to create GitHub account
-* 
-* 
+* how to collaborate
+* how to submit assignment
 * 
 
 \---
 
 ## Lab / Hands-On Work
-
-&#x20;created a GitHub profile.
-
+created a GitHub profile.
 forked the repository
 
 it worked!
@@ -78,5 +74,5 @@ believe you can do it.
 
 \---
 
-*Submitted by: \[Your Full Name] · \[Your GitHub username]*
+*Submitted by: Baba Bata · bbdibal*
 

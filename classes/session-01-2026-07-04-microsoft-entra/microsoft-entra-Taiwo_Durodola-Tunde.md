@@ -1,61 +1,45 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — Taiwo Durodola-Tunde
 
 ---
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
-
--
--
--
+- Learned the purpose and benefits of Microsoft Entra Conditional Access as a Zero Trust security control.
+- Understood how Conditional Access policies evaluate user, device, application, location, and risk signals before granting access.
+- Learned about common policy assignments, including users and groups, cloud apps, conditions, and grant controls.
+- Explored how Multi-Factor Authentication (MFA), compliant devices, and sign-in risk can be enforced through Conditional Access.
+- Gained an understanding of policy best practices, including using report-only mode for testing before enforcement.
+- Learned about balancing security with user experience by applying Conditional Access policies strategically.
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+As I do not yet have access to a Microsoft Entra environment, I was unable to complete the practical exercises for this session.
 
 ### What I did
 
+- Followed the instructor's explanation of Microsoft Entra Conditional Access.
+- Reviewed the Microsoft Learn training content alongside the class.
+- Observed demonstrations of how Conditional Access policies are created and configured.
 
 ### What happened / Result
 
+- Developed a solid understanding of how Conditional Access works conceptually.
+- Became familiar with the components involved in creating and evaluating Conditional Access policies.
+- Improved my understanding of how organisations protect cloud resources using policy-based access controls.
 
 ### Challenges I faced
 
+- Currently do not have access to a Microsoft Entra tenant, so I was unable to perform the hands-on configuration or testing myself.
+- I am looking forward to gaining access so I can practise creating and validating Conditional Access policies.
 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
-
-
----
-
-## Questions I Still Have
-
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
+Today's session helped me understand that Conditional Access is one of the most important security features in Microsoft Entra. Rather than simply authenticating users, it evaluates multiple signals before deciding whether access should be granted, denied, or require additional verification. I also learned the importance of testing policies in Report-only mode before enabling them in production to avoid unintended disruptions.
 
 ---
 
-## Resources I Found Useful
-
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
-
----
-
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Taiwo Durodola-Tunde · taiwogold*
